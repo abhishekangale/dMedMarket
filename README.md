@@ -11,4 +11,4 @@ Lastly patients have had little control over their health information. In resear
 
 Enter dMedMarket.
 
-dMedMarket offers a novel ethereum-based solution with a react front end. After receiving the participant’s consent, the researcher uploads the participant’s health data onto the blockchain as an electronic health record. Within the application, other researchers can obtain this raw de-identified data by paying the source researcher and participant a nominal fee.ers can obtain this raw de-identified data by paying the source researcher and participant a nominal fee.
+dMedMarket offers a novel ethereum-based solution with a react front end. After receiving the participant’s consent, the researcher uploads the participant’s health data onto the blockchain as an electronic health record. Within the application, other researchers can obtain this raw de-identified data by paying the source researcher and participant a nominal fee. Researchers can obtain this raw de-identified data by paying the source researcher and participant a nominal fee.

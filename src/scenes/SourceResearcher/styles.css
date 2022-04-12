@@ -1,0 +1,14 @@
+.sr-container {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+}
+
+.sr-form {
+  width: 50%;
+  margin: auto;
+}
+
+.sr-submit-btn {
+  margin-top: 30px;
+}

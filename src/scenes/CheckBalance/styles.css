@@ -1,0 +1,10 @@
+.cb-container {
+  display: flex;
+  text-align: center;
+}
+
+.cb-content {
+  /*width: 50%;*/
+  margin-left: auto;
+  margin-right: auto;
+}

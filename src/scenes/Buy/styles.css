@@ -1,0 +1,30 @@
+.buy-container {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+}
+
+.buy-form {
+  width: 50%;
+  margin: 0 auto;
+}
+
+.buy-submit-btn {
+  margin-top: 30px;
+}
+
+.buy-table {
+  width: 70%;
+}
+
+
+table {
+  margin-top: 40px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+td {
+  padding: 10px;
+  text-align: center;
+}
